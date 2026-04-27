@@ -1,5 +1,5 @@
 # RAPT: Robust Alignment via Piano Transformer
-
+[![Project Page](https://img.shields.io/badge/Project%20Page-RAPT-blue?style=flat-square)](https://ogh9hmhz60.github.io/RAPT-Alignment/)
 This repository accompanies an anonymous submission and contains the code,
 configuration, and evaluation entry points needed to reproduce the symbolic
 score-to-performance alignment experiments reported in the paper.
