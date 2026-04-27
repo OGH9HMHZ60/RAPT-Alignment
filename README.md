@@ -21,9 +21,9 @@ onset features. FastDTW operates on the resulting blended representation;
 low-confidence matches are routed to a DualDTW fallback, and short gaps
 between confident anchors are filled by a pitch-greedy interpolation step.
 
-The full pipeline is described in Section 3 of the paper. This repository
+The full pipeline is described in Section RAPT of the paper. This repository
 implements all components needed to train the encoder, run the inference
-pipeline, and reproduce the tables in Sections 4 and 5.
+pipeline, and reproduce the results.
 
 ---
 
@@ -87,7 +87,7 @@ The corrupted MIDI variants and their ground-truth alignments used in the
 corrupted-test evaluation are included directly in this repository under
 `data_synmist/typed_test_<dataset>/`. They were generated from the test split with the
 [piano_synmist](https://github.com/Alia-morsi/piano-synmist) library using
-the four error types described in Section 4.1.2 of the paper (`drag`,
+the four error types described in the paper (`drag`,
 `mistouch`, `pitch_change`, `forward_backward_insertion`). Where available,
 each `.mid` file is accompanied by a `.npz` sidecar that caches the
 generation-time note array; `run_alignment.py` uses the sidecar when
