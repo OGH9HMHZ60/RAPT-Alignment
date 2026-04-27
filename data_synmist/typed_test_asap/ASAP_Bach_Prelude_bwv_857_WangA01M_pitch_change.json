@@ -1,0 +1,3017 @@
+[
+  {
+    "label": "match",
+    "score_id": "n1-1",
+    "performance_id": "n1"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n14-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n21-1",
+    "performance_id": "n0"
+  },
+  {
+    "label": "match",
+    "score_id": "n25-1",
+    "performance_id": "n2"
+  },
+  {
+    "label": "match",
+    "score_id": "n2-1",
+    "performance_id": "n3"
+  },
+  {
+    "label": "match",
+    "score_id": "n3-1",
+    "performance_id": "n4"
+  },
+  {
+    "label": "match",
+    "score_id": "n4-1",
+    "performance_id": "n5"
+  },
+  {
+    "label": "match",
+    "score_id": "n5-1",
+    "performance_id": "n6"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n15-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n22-1",
+    "performance_id": "n7"
+  },
+  {
+    "label": "match",
+    "score_id": "n6-1",
+    "performance_id": "n8"
+  },
+  {
+    "label": "match",
+    "score_id": "n7-1",
+    "performance_id": "n9"
+  },
+  {
+    "label": "match",
+    "score_id": "n8-1",
+    "performance_id": "n10"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n9-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n16-1",
+    "performance_id": "n11"
+  },
+  {
+    "label": "match",
+    "score_id": "n23-1",
+    "performance_id": "n12"
+  },
+  {
+    "label": "match",
+    "score_id": "n10-1",
+    "performance_id": "n13"
+  },
+  {
+    "label": "match",
+    "score_id": "n11-1",
+    "performance_id": "n14"
+  },
+  {
+    "label": "match",
+    "score_id": "n12-1",
+    "performance_id": "n15"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n13-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n17-1",
+    "performance_id": "n17"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n24-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n18-1",
+    "performance_id": "n18"
+  },
+  {
+    "label": "match",
+    "score_id": "n19-1",
+    "performance_id": "n19"
+  },
+  {
+    "label": "match",
+    "score_id": "n20-1",
+    "performance_id": "n20"
+  },
+  {
+    "label": "match",
+    "score_id": "n26-1",
+    "performance_id": "n21"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n36-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n55-1",
+    "performance_id": "n22"
+  },
+  {
+    "label": "match",
+    "score_id": "n37-1",
+    "performance_id": "n23"
+  },
+  {
+    "label": "match",
+    "score_id": "n38-1",
+    "performance_id": "n24"
+  },
+  {
+    "label": "match",
+    "score_id": "n39-1",
+    "performance_id": "n25"
+  },
+  {
+    "label": "match",
+    "score_id": "n40-1",
+    "performance_id": "n26"
+  },
+  {
+    "label": "match",
+    "score_id": "n56-1",
+    "performance_id": "n27"
+  },
+  {
+    "label": "match",
+    "score_id": "n28-1",
+    "performance_id": "n28"
+  },
+  {
+    "label": "match",
+    "score_id": "n29-1",
+    "performance_id": "n29"
+  },
+  {
+    "label": "match",
+    "score_id": "n30-1",
+    "performance_id": "n30"
+  },
+  {
+    "label": "match",
+    "score_id": "n31-1",
+    "performance_id": "n33"
+  },
+  {
+    "label": "match",
+    "score_id": "n41-1",
+    "performance_id": "n32"
+  },
+  {
+    "label": "match",
+    "score_id": "n57-1",
+    "performance_id": "n31"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n66-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n58-1",
+    "performance_id": "n34"
+  },
+  {
+    "label": "match",
+    "score_id": "n59-1",
+    "performance_id": "n35"
+  },
+  {
+    "label": "match",
+    "score_id": "n32-1",
+    "performance_id": "n37"
+  },
+  {
+    "label": "match",
+    "score_id": "n60-1",
+    "performance_id": "n36"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n33-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n43-1",
+    "performance_id": "n39"
+  },
+  {
+    "label": "match",
+    "score_id": "n61-1",
+    "performance_id": "n38"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n67-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n44-1",
+    "performance_id": "n40"
+  },
+  {
+    "label": "match",
+    "score_id": "n45-1",
+    "performance_id": "n41"
+  },
+  {
+    "label": "match",
+    "score_id": "n46-1",
+    "performance_id": "n42"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n47-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n62-1",
+    "performance_id": "n43"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n48-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n49-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n50-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n51-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n63-1",
+    "performance_id": "n44"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n52-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n53-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n54-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n34-1",
+    "performance_id": "n45"
+  },
+  {
+    "label": "match",
+    "score_id": "n64-1",
+    "performance_id": "n46"
+  },
+  {
+    "label": "match",
+    "score_id": "n35-1",
+    "performance_id": "n47"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n68-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n77-1",
+    "performance_id": "n49"
+  },
+  {
+    "label": "match",
+    "score_id": "n95-1",
+    "performance_id": "n48"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n105-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n78-1",
+    "performance_id": "n50"
+  },
+  {
+    "label": "match",
+    "score_id": "n79-1",
+    "performance_id": "n51"
+  },
+  {
+    "label": "match",
+    "score_id": "n80-1",
+    "performance_id": "n52"
+  },
+  {
+    "label": "match",
+    "score_id": "n81-1",
+    "performance_id": "n54"
+  },
+  {
+    "label": "match",
+    "score_id": "n96-1",
+    "performance_id": "n53"
+  },
+  {
+    "label": "match",
+    "score_id": "n69-1",
+    "performance_id": "n55"
+  },
+  {
+    "label": "match",
+    "score_id": "n70-1",
+    "performance_id": "n56"
+  },
+  {
+    "label": "match",
+    "score_id": "n71-1",
+    "performance_id": "n57"
+  },
+  {
+    "label": "match",
+    "score_id": "n72-1",
+    "performance_id": "n60"
+  },
+  {
+    "label": "match",
+    "score_id": "n82-1",
+    "performance_id": "n59"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n97-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n106-1",
+    "performance_id": "n58"
+  },
+  {
+    "label": "match",
+    "score_id": "n98-1",
+    "performance_id": "n61"
+  },
+  {
+    "label": "match",
+    "score_id": "n99-1",
+    "performance_id": "n62"
+  },
+  {
+    "label": "match",
+    "score_id": "n73-1",
+    "performance_id": "n64"
+  },
+  {
+    "label": "match",
+    "score_id": "n100-1",
+    "performance_id": "n63"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n74-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n83-1",
+    "performance_id": "n66"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n101-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n107-1",
+    "performance_id": "n65"
+  },
+  {
+    "label": "match",
+    "score_id": "n84-1",
+    "performance_id": "n67"
+  },
+  {
+    "label": "match",
+    "score_id": "n85-1",
+    "performance_id": "n68"
+  },
+  {
+    "label": "match",
+    "score_id": "n86-1",
+    "performance_id": "n69"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n87-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n102-1",
+    "performance_id": "n70"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n88-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n89-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n90-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n91-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n103-1",
+    "performance_id": "n71"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n92-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n93-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n94-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n75-1",
+    "performance_id": "n72"
+  },
+  {
+    "label": "match",
+    "score_id": "n104-1",
+    "performance_id": "n73"
+  },
+  {
+    "label": "match",
+    "score_id": "n76-1",
+    "performance_id": "n74"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n108-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n121-1",
+    "performance_id": "n76"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n137-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n149-1",
+    "performance_id": "n75"
+  },
+  {
+    "label": "match",
+    "score_id": "n109-1",
+    "performance_id": "n77"
+  },
+  {
+    "label": "match",
+    "score_id": "n110-1",
+    "performance_id": "n78"
+  },
+  {
+    "label": "match",
+    "score_id": "n138-1",
+    "performance_id": "n79"
+  },
+  {
+    "label": "match",
+    "score_id": "n111-1",
+    "performance_id": "n80"
+  },
+  {
+    "label": "match",
+    "score_id": "n122-1",
+    "performance_id": "n81"
+  },
+  {
+    "label": "match",
+    "score_id": "n139-1",
+    "performance_id": "n82"
+  },
+  {
+    "label": "match",
+    "score_id": "n113-1",
+    "performance_id": "n83"
+  },
+  {
+    "label": "match",
+    "score_id": "n114-1",
+    "performance_id": "n85"
+  },
+  {
+    "label": "match",
+    "score_id": "n140-1",
+    "performance_id": "n84"
+  },
+  {
+    "label": "match",
+    "score_id": "n115-1",
+    "performance_id": "n86"
+  },
+  {
+    "label": "match",
+    "score_id": "n116-1",
+    "performance_id": "n88"
+  },
+  {
+    "label": "match",
+    "score_id": "n123-1",
+    "performance_id": "n89"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n141-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n150-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n142-1",
+    "performance_id": "n90"
+  },
+  {
+    "label": "match",
+    "score_id": "n143-1",
+    "performance_id": "n91"
+  },
+  {
+    "label": "match",
+    "score_id": "n117-1",
+    "performance_id": "n93"
+  },
+  {
+    "label": "match",
+    "score_id": "n144-1",
+    "performance_id": "n92"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n118-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n124-1",
+    "performance_id": "n95"
+  },
+  {
+    "label": "match",
+    "score_id": "n125-1",
+    "performance_id": "n96"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n145-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n151-1",
+    "performance_id": "n94"
+  },
+  {
+    "label": "match",
+    "score_id": "n126-1",
+    "performance_id": "n97"
+  },
+  {
+    "label": "match",
+    "score_id": "n127-1",
+    "performance_id": "n98"
+  },
+  {
+    "label": "match",
+    "score_id": "n128-1",
+    "performance_id": "n99"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n129-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n146-1",
+    "performance_id": "n100"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n130-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n131-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n132-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n133-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n147-1",
+    "performance_id": "n101"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n134-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n135-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n136-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n119-1",
+    "performance_id": "n102"
+  },
+  {
+    "label": "match",
+    "score_id": "n148-1",
+    "performance_id": "n103"
+  },
+  {
+    "label": "match",
+    "score_id": "n120-1",
+    "performance_id": "n104"
+  },
+  {
+    "label": "match",
+    "score_id": "n152-1",
+    "performance_id": "n105"
+  },
+  {
+    "label": "match",
+    "score_id": "n170-1",
+    "performance_id": "n106"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n178-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n160-1",
+    "performance_id": "n107"
+  },
+  {
+    "label": "match",
+    "score_id": "n161-1",
+    "performance_id": "n108"
+  },
+  {
+    "label": "match",
+    "score_id": "n171-1",
+    "performance_id": "n109"
+  },
+  {
+    "label": "match",
+    "score_id": "n162-1",
+    "performance_id": "n110"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n172-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n179-1",
+    "performance_id": "n111"
+  },
+  {
+    "label": "match",
+    "score_id": "n164-1",
+    "performance_id": "n112"
+  },
+  {
+    "label": "match",
+    "score_id": "n165-1",
+    "performance_id": "n114"
+  },
+  {
+    "label": "match",
+    "score_id": "n180-1",
+    "performance_id": "n113"
+  },
+  {
+    "label": "match",
+    "score_id": "n166-1",
+    "performance_id": "n115"
+  },
+  {
+    "label": "match",
+    "score_id": "n167-1",
+    "performance_id": "n116"
+  },
+  {
+    "label": "match",
+    "score_id": "n173-1",
+    "performance_id": "n117"
+  },
+  {
+    "label": "match",
+    "score_id": "n154-1",
+    "performance_id": "n118"
+  },
+  {
+    "label": "match",
+    "score_id": "n155-1",
+    "performance_id": "n119"
+  },
+  {
+    "label": "match",
+    "score_id": "n156-1",
+    "performance_id": "n120"
+  },
+  {
+    "label": "match",
+    "score_id": "n157-1",
+    "performance_id": "n121"
+  },
+  {
+    "label": "match",
+    "score_id": "n175-1",
+    "performance_id": "n122"
+  },
+  {
+    "label": "insertion",
+    "score_id": null,
+    "performance_id": "n124"
+  },
+  {
+    "label": "match",
+    "score_id": "n158-1",
+    "performance_id": "n125"
+  },
+  {
+    "label": "match",
+    "score_id": "n176-1",
+    "performance_id": "n123"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n168-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n169-1",
+    "performance_id": "n127"
+  },
+  {
+    "label": "match",
+    "score_id": "n177-1",
+    "performance_id": "n128"
+  },
+  {
+    "label": "match",
+    "score_id": "n181-1",
+    "performance_id": "n129"
+  },
+  {
+    "label": "match",
+    "score_id": "n198-1",
+    "performance_id": "n130"
+  },
+  {
+    "label": "match",
+    "score_id": "n189-1",
+    "performance_id": "n131"
+  },
+  {
+    "label": "match",
+    "score_id": "n190-1",
+    "performance_id": "n132"
+  },
+  {
+    "label": "match",
+    "score_id": "n199-1",
+    "performance_id": "n133"
+  },
+  {
+    "label": "match",
+    "score_id": "n191-1",
+    "performance_id": "n134"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n200-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n210-1",
+    "performance_id": "n135"
+  },
+  {
+    "label": "match",
+    "score_id": "n193-1",
+    "performance_id": "n137"
+  },
+  {
+    "label": "match",
+    "score_id": "n194-1",
+    "performance_id": "n139"
+  },
+  {
+    "label": "match",
+    "score_id": "n211-1",
+    "performance_id": "n138"
+  },
+  {
+    "label": "match",
+    "score_id": "n195-1",
+    "performance_id": "n140"
+  },
+  {
+    "label": "match",
+    "score_id": "n196-1",
+    "performance_id": "n142"
+  },
+  {
+    "label": "match",
+    "score_id": "n202-1",
+    "performance_id": "n141"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n212-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n183-1",
+    "performance_id": "n144"
+  },
+  {
+    "label": "match",
+    "score_id": "n203-1",
+    "performance_id": "n143"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n184-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n204-1",
+    "performance_id": "n145"
+  },
+  {
+    "label": "match",
+    "score_id": "n205-1",
+    "performance_id": "n147"
+  },
+  {
+    "label": "match",
+    "score_id": "n197-1",
+    "performance_id": "n149"
+  },
+  {
+    "label": "match",
+    "score_id": "n206-1",
+    "performance_id": "n148"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n213-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n186-1",
+    "performance_id": "n150"
+  },
+  {
+    "label": "match",
+    "score_id": "n207-1",
+    "performance_id": "n151"
+  },
+  {
+    "label": "match",
+    "score_id": "n187-1",
+    "performance_id": "n153"
+  },
+  {
+    "label": "match",
+    "score_id": "n208-1",
+    "performance_id": "n152"
+  },
+  {
+    "label": "match",
+    "score_id": "n209-1",
+    "performance_id": "n154"
+  },
+  {
+    "label": "match",
+    "score_id": "n228-1",
+    "performance_id": "n155"
+  },
+  {
+    "label": "match",
+    "score_id": "n232-1",
+    "performance_id": "n156"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n248-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n215-1",
+    "performance_id": "n157"
+  },
+  {
+    "label": "match",
+    "score_id": "n233-1",
+    "performance_id": "n158"
+  },
+  {
+    "label": "match",
+    "score_id": "n216-1",
+    "performance_id": "n160"
+  },
+  {
+    "label": "match",
+    "score_id": "n234-1",
+    "performance_id": "n159"
+  },
+  {
+    "label": "match",
+    "score_id": "n235-1",
+    "performance_id": "n161"
+  },
+  {
+    "label": "match",
+    "score_id": "n229-1",
+    "performance_id": "n163"
+  },
+  {
+    "label": "match",
+    "score_id": "n236-1",
+    "performance_id": "n162"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n249-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n218-1",
+    "performance_id": "n164"
+  },
+  {
+    "label": "match",
+    "score_id": "n237-1",
+    "performance_id": "n165"
+  },
+  {
+    "label": "match",
+    "score_id": "n219-1",
+    "performance_id": "n167"
+  },
+  {
+    "label": "match",
+    "score_id": "n238-1",
+    "performance_id": "n166"
+  },
+  {
+    "label": "match",
+    "score_id": "n239-1",
+    "performance_id": "n168"
+  },
+  {
+    "label": "match",
+    "score_id": "n230-1",
+    "performance_id": "n170"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n240-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n250-1",
+    "performance_id": "n169"
+  },
+  {
+    "label": "match",
+    "score_id": "n221-1",
+    "performance_id": "n171"
+  },
+  {
+    "label": "match",
+    "score_id": "n241-1",
+    "performance_id": "n172"
+  },
+  {
+    "label": "match",
+    "score_id": "n222-1",
+    "performance_id": "n173"
+  },
+  {
+    "label": "match",
+    "score_id": "n242-1",
+    "performance_id": "n174"
+  },
+  {
+    "label": "match",
+    "score_id": "n223-1",
+    "performance_id": "n175"
+  },
+  {
+    "label": "match",
+    "score_id": "n243-1",
+    "performance_id": "n176"
+  },
+  {
+    "label": "match",
+    "score_id": "n224-1",
+    "performance_id": "n178"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n244-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n251-1",
+    "performance_id": "n177"
+  },
+  {
+    "label": "match",
+    "score_id": "n225-1",
+    "performance_id": "n179"
+  },
+  {
+    "label": "match",
+    "score_id": "n245-1",
+    "performance_id": "n180"
+  },
+  {
+    "label": "match",
+    "score_id": "n226-1",
+    "performance_id": "n182"
+  },
+  {
+    "label": "match",
+    "score_id": "n246-1",
+    "performance_id": "n181"
+  },
+  {
+    "label": "match",
+    "score_id": "n227-1",
+    "performance_id": "n183"
+  },
+  {
+    "label": "match",
+    "score_id": "n247-1",
+    "performance_id": "n184"
+  },
+  {
+    "label": "insertion",
+    "score_id": null,
+    "performance_id": "n186"
+  },
+  {
+    "label": "match",
+    "score_id": "n252-1",
+    "performance_id": "n187"
+  },
+  {
+    "label": "match",
+    "score_id": "n268-1",
+    "performance_id": "n185"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n274-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n263-1",
+    "performance_id": "n188"
+  },
+  {
+    "label": "match",
+    "score_id": "n264-1",
+    "performance_id": "n189"
+  },
+  {
+    "label": "match",
+    "score_id": "n269-1",
+    "performance_id": "n190"
+  },
+  {
+    "label": "match",
+    "score_id": "n270-1",
+    "performance_id": "n191"
+  },
+  {
+    "label": "match",
+    "score_id": "n271-1",
+    "performance_id": "n192"
+  },
+  {
+    "label": "match",
+    "score_id": "n272-1",
+    "performance_id": "n194"
+  },
+  {
+    "label": "match",
+    "score_id": "n275-1",
+    "performance_id": "n193"
+  },
+  {
+    "label": "match",
+    "score_id": "n254-1",
+    "performance_id": "n195"
+  },
+  {
+    "label": "match",
+    "score_id": "n255-1",
+    "performance_id": "n197"
+  },
+  {
+    "label": "match",
+    "score_id": "n276-1",
+    "performance_id": "n196"
+  },
+  {
+    "label": "match",
+    "score_id": "n256-1",
+    "performance_id": "n198"
+  },
+  {
+    "label": "match",
+    "score_id": "n257-1",
+    "performance_id": "n200"
+  },
+  {
+    "label": "match",
+    "score_id": "n277-1",
+    "performance_id": "n199"
+  },
+  {
+    "label": "match",
+    "score_id": "n258-1",
+    "performance_id": "n201"
+  },
+  {
+    "label": "match",
+    "score_id": "n259-1",
+    "performance_id": "n203"
+  },
+  {
+    "label": "match",
+    "score_id": "n278-1",
+    "performance_id": "n202"
+  },
+  {
+    "label": "match",
+    "score_id": "n260-1",
+    "performance_id": "n204"
+  },
+  {
+    "label": "insertion",
+    "score_id": null,
+    "performance_id": "n206"
+  },
+  {
+    "label": "match",
+    "score_id": "n261-1",
+    "performance_id": "n207"
+  },
+  {
+    "label": "match",
+    "score_id": "n273-1",
+    "performance_id": "n208"
+  },
+  {
+    "label": "match",
+    "score_id": "n279-1",
+    "performance_id": "n205"
+  },
+  {
+    "label": "match",
+    "score_id": "n280-1",
+    "performance_id": "n209"
+  },
+  {
+    "label": "match",
+    "score_id": "n281-1",
+    "performance_id": "n210"
+  },
+  {
+    "label": "match",
+    "score_id": "n266-1",
+    "performance_id": "n211"
+  },
+  {
+    "label": "match",
+    "score_id": "n267-1",
+    "performance_id": "n212"
+  },
+  {
+    "label": "match",
+    "score_id": "n262-1",
+    "performance_id": "n213"
+  },
+  {
+    "label": "match",
+    "score_id": "n282-1",
+    "performance_id": "n214"
+  },
+  {
+    "label": "match",
+    "score_id": "n291-1",
+    "performance_id": "n216"
+  },
+  {
+    "label": "match",
+    "score_id": "n301-1",
+    "performance_id": "n215"
+  },
+  {
+    "label": "match",
+    "score_id": "n283-1",
+    "performance_id": "n217"
+  },
+  {
+    "label": "match",
+    "score_id": "n284-1",
+    "performance_id": "n218"
+  },
+  {
+    "label": "match",
+    "score_id": "n285-1",
+    "performance_id": "n219"
+  },
+  {
+    "label": "match",
+    "score_id": "n286-1",
+    "performance_id": "n220"
+  },
+  {
+    "label": "match",
+    "score_id": "n287-1",
+    "performance_id": "n221"
+  },
+  {
+    "label": "match",
+    "score_id": "n303-1",
+    "performance_id": "n222"
+  },
+  {
+    "label": "match",
+    "score_id": "n288-1",
+    "performance_id": "n223"
+  },
+  {
+    "label": "match",
+    "score_id": "n304-1",
+    "performance_id": "n224"
+  },
+  {
+    "label": "match",
+    "score_id": "n289-1",
+    "performance_id": "n225"
+  },
+  {
+    "label": "match",
+    "score_id": "n305-1",
+    "performance_id": "n226"
+  },
+  {
+    "label": "match",
+    "score_id": "n290-1",
+    "performance_id": "n228"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n293-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n306-1",
+    "performance_id": "n227"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n294-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n295-1",
+    "performance_id": "n230"
+  },
+  {
+    "label": "match",
+    "score_id": "n296-1",
+    "performance_id": "n231"
+  },
+  {
+    "label": "match",
+    "score_id": "n297-1",
+    "performance_id": "n232"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n307-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n298-1",
+    "performance_id": "n233"
+  },
+  {
+    "label": "match",
+    "score_id": "n299-1",
+    "performance_id": "n234"
+  },
+  {
+    "label": "match",
+    "score_id": "n300-1",
+    "performance_id": "n235"
+  },
+  {
+    "label": "match",
+    "score_id": "n335-1",
+    "performance_id": "n236"
+  },
+  {
+    "label": "match",
+    "score_id": "n344-1",
+    "performance_id": "n237"
+  },
+  {
+    "label": "match",
+    "score_id": "n309-1",
+    "performance_id": "n238"
+  },
+  {
+    "label": "match",
+    "score_id": "n310-1",
+    "performance_id": "n239"
+  },
+  {
+    "label": "match",
+    "score_id": "n311-1",
+    "performance_id": "n240"
+  },
+  {
+    "label": "match",
+    "score_id": "n312-1",
+    "performance_id": "n241"
+  },
+  {
+    "label": "match",
+    "score_id": "n313-1",
+    "performance_id": "n242"
+  },
+  {
+    "label": "match",
+    "score_id": "n346-1",
+    "performance_id": "n243"
+  },
+  {
+    "label": "match",
+    "score_id": "n314-1",
+    "performance_id": "n244"
+  },
+  {
+    "label": "match",
+    "score_id": "n347-1",
+    "performance_id": "n245"
+  },
+  {
+    "label": "match",
+    "score_id": "n315-1",
+    "performance_id": "n247"
+  },
+  {
+    "label": "match",
+    "score_id": "n348-1",
+    "performance_id": "n246"
+  },
+  {
+    "label": "match",
+    "score_id": "n316-1",
+    "performance_id": "n249"
+  },
+  {
+    "label": "match",
+    "score_id": "n336-1",
+    "performance_id": "n248"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n349-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n321-1",
+    "performance_id": "n250"
+  },
+  {
+    "label": "match",
+    "score_id": "n322-1",
+    "performance_id": "n251"
+  },
+  {
+    "label": "match",
+    "score_id": "n337-1",
+    "performance_id": "n252"
+  },
+  {
+    "label": "match",
+    "score_id": "n338-1",
+    "performance_id": "n253"
+  },
+  {
+    "label": "match",
+    "score_id": "n317-1",
+    "performance_id": "n255"
+  },
+  {
+    "label": "match",
+    "score_id": "n339-1",
+    "performance_id": "n254"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n318-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n323-1",
+    "performance_id": "n257"
+  },
+  {
+    "label": "match",
+    "score_id": "n340-1",
+    "performance_id": "n256"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n350-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n324-1",
+    "performance_id": "n258"
+  },
+  {
+    "label": "match",
+    "score_id": "n325-1",
+    "performance_id": "n259"
+  },
+  {
+    "label": "match",
+    "score_id": "n326-1",
+    "performance_id": "n260"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n327-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n341-1",
+    "performance_id": "n261"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n328-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n329-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n330-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n331-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n342-1",
+    "performance_id": "n262"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n332-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n333-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n334-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n319-1",
+    "performance_id": "n264"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n343-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n320-1",
+    "performance_id": "n265"
+  },
+  {
+    "label": "match",
+    "score_id": "n351-1",
+    "performance_id": "n267"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n362-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n370-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n374-1",
+    "performance_id": "n266"
+  },
+  {
+    "label": "match",
+    "score_id": "n352-1",
+    "performance_id": "n268"
+  },
+  {
+    "label": "match",
+    "score_id": "n353-1",
+    "performance_id": "n269"
+  },
+  {
+    "label": "match",
+    "score_id": "n371-1",
+    "performance_id": "n270"
+  },
+  {
+    "label": "match",
+    "score_id": "n354-1",
+    "performance_id": "n271"
+  },
+  {
+    "label": "match",
+    "score_id": "n363-1",
+    "performance_id": "n272"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n372-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n375-1",
+    "performance_id": "n273"
+  },
+  {
+    "label": "match",
+    "score_id": "n356-1",
+    "performance_id": "n274"
+  },
+  {
+    "label": "match",
+    "score_id": "n357-1",
+    "performance_id": "n275"
+  },
+  {
+    "label": "match",
+    "score_id": "n376-1",
+    "performance_id": "n276"
+  },
+  {
+    "label": "match",
+    "score_id": "n358-1",
+    "performance_id": "n277"
+  },
+  {
+    "label": "match",
+    "score_id": "n364-1",
+    "performance_id": "n278"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n373-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n377-1",
+    "performance_id": "n279"
+  },
+  {
+    "label": "match",
+    "score_id": "n359-1",
+    "performance_id": "n280"
+  },
+  {
+    "label": "match",
+    "score_id": "n365-1",
+    "performance_id": "n282"
+  },
+  {
+    "label": "match",
+    "score_id": "n378-1",
+    "performance_id": "n281"
+  },
+  {
+    "label": "match",
+    "score_id": "n360-1",
+    "performance_id": "n283"
+  },
+  {
+    "label": "match",
+    "score_id": "n361-1",
+    "performance_id": "n285"
+  },
+  {
+    "label": "match",
+    "score_id": "n379-1",
+    "performance_id": "n284"
+  },
+  {
+    "label": "match",
+    "score_id": "n367-1",
+    "performance_id": "n286"
+  },
+  {
+    "label": "match",
+    "score_id": "n368-1",
+    "performance_id": "n288"
+  },
+  {
+    "label": "match",
+    "score_id": "n380-1",
+    "performance_id": "n287"
+  },
+  {
+    "label": "match",
+    "score_id": "n369-1",
+    "performance_id": "n289"
+  },
+  {
+    "label": "match",
+    "score_id": "n381-1",
+    "performance_id": "n290"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n386-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n405-1",
+    "performance_id": "n291"
+  },
+  {
+    "label": "match",
+    "score_id": "n387-1",
+    "performance_id": "n292"
+  },
+  {
+    "label": "match",
+    "score_id": "n388-1",
+    "performance_id": "n293"
+  },
+  {
+    "label": "match",
+    "score_id": "n389-1",
+    "performance_id": "n294"
+  },
+  {
+    "label": "match",
+    "score_id": "n390-1",
+    "performance_id": "n295"
+  },
+  {
+    "label": "match",
+    "score_id": "n383-1",
+    "performance_id": "n296"
+  },
+  {
+    "label": "match",
+    "score_id": "n384-1",
+    "performance_id": "n297"
+  },
+  {
+    "label": "match",
+    "score_id": "n398-1",
+    "performance_id": "n298"
+  },
+  {
+    "label": "match",
+    "score_id": "n391-1",
+    "performance_id": "n299"
+  },
+  {
+    "label": "match",
+    "score_id": "n385-1",
+    "performance_id": "n300"
+  },
+  {
+    "label": "match",
+    "score_id": "n399-1",
+    "performance_id": "n302"
+  },
+  {
+    "label": "match",
+    "score_id": "n406-1",
+    "performance_id": "n301"
+  },
+  {
+    "label": "match",
+    "score_id": "n393-1",
+    "performance_id": "n303"
+  },
+  {
+    "label": "match",
+    "score_id": "n394-1",
+    "performance_id": "n304"
+  },
+  {
+    "label": "match",
+    "score_id": "n400-1",
+    "performance_id": "n305"
+  },
+  {
+    "label": "match",
+    "score_id": "n395-1",
+    "performance_id": "n306"
+  },
+  {
+    "label": "match",
+    "score_id": "n396-1",
+    "performance_id": "n307"
+  },
+  {
+    "label": "match",
+    "score_id": "n402-1",
+    "performance_id": "n308"
+  },
+  {
+    "label": "match",
+    "score_id": "n403-1",
+    "performance_id": "n309"
+  },
+  {
+    "label": "match",
+    "score_id": "n404-1",
+    "performance_id": "n310"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n407-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n417-1",
+    "performance_id": "n312"
+  },
+  {
+    "label": "match",
+    "score_id": "n433-1",
+    "performance_id": "n311"
+  },
+  {
+    "label": "match",
+    "score_id": "n408-1",
+    "performance_id": "n313"
+  },
+  {
+    "label": "match",
+    "score_id": "n409-1",
+    "performance_id": "n314"
+  },
+  {
+    "label": "match",
+    "score_id": "n423-1",
+    "performance_id": "n315"
+  },
+  {
+    "label": "match",
+    "score_id": "n410-1",
+    "performance_id": "n316"
+  },
+  {
+    "label": "match",
+    "score_id": "n418-1",
+    "performance_id": "n318"
+  },
+  {
+    "label": "match",
+    "score_id": "n434-1",
+    "performance_id": "n317"
+  },
+  {
+    "label": "match",
+    "score_id": "n412-1",
+    "performance_id": "n319"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n413-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n424-1",
+    "performance_id": "n320"
+  },
+  {
+    "label": "match",
+    "score_id": "n414-1",
+    "performance_id": "n322"
+  },
+  {
+    "label": "match",
+    "score_id": "n415-1",
+    "performance_id": "n324"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n425-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n435-1",
+    "performance_id": "n323"
+  },
+  {
+    "label": "match",
+    "score_id": "n426-1",
+    "performance_id": "n325"
+  },
+  {
+    "label": "match",
+    "score_id": "n420-1",
+    "performance_id": "n327"
+  },
+  {
+    "label": "match",
+    "score_id": "n427-1",
+    "performance_id": "n326"
+  },
+  {
+    "label": "match",
+    "score_id": "n428-1",
+    "performance_id": "n328"
+  },
+  {
+    "label": "match",
+    "score_id": "n421-1",
+    "performance_id": "n330"
+  },
+  {
+    "label": "match",
+    "score_id": "n436-1",
+    "performance_id": "n329"
+  },
+  {
+    "label": "match",
+    "score_id": "n430-1",
+    "performance_id": "n331"
+  },
+  {
+    "label": "match",
+    "score_id": "n416-1",
+    "performance_id": "n333"
+  },
+  {
+    "label": "match",
+    "score_id": "n431-1",
+    "performance_id": "n332"
+  },
+  {
+    "label": "match",
+    "score_id": "n432-1",
+    "performance_id": "n334"
+  },
+  {
+    "label": "match",
+    "score_id": "n450-1",
+    "performance_id": "n337"
+  },
+  {
+    "label": "match",
+    "score_id": "n458-1",
+    "performance_id": "n336"
+  },
+  {
+    "label": "match",
+    "score_id": "n462-1",
+    "performance_id": "n335"
+  },
+  {
+    "label": "match",
+    "score_id": "n438-1",
+    "performance_id": "n338"
+  },
+  {
+    "label": "match",
+    "score_id": "n439-1",
+    "performance_id": "n339"
+  },
+  {
+    "label": "match",
+    "score_id": "n459-1",
+    "performance_id": "n341"
+  },
+  {
+    "label": "match",
+    "score_id": "n463-1",
+    "performance_id": "n340"
+  },
+  {
+    "label": "match",
+    "score_id": "n440-1",
+    "performance_id": "n342"
+  },
+  {
+    "label": "match",
+    "score_id": "n441-1",
+    "performance_id": "n345"
+  },
+  {
+    "label": "match",
+    "score_id": "n460-1",
+    "performance_id": "n344"
+  },
+  {
+    "label": "match",
+    "score_id": "n464-1",
+    "performance_id": "n343"
+  },
+  {
+    "label": "match",
+    "score_id": "n442-1",
+    "performance_id": "n346"
+  },
+  {
+    "label": "match",
+    "score_id": "n443-1",
+    "performance_id": "n347"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n451-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n444-1",
+    "performance_id": "n348"
+  },
+  {
+    "label": "match",
+    "score_id": "n445-1",
+    "performance_id": "n349"
+  },
+  {
+    "label": "match",
+    "score_id": "n461-1",
+    "performance_id": "n351"
+  },
+  {
+    "label": "match",
+    "score_id": "n465-1",
+    "performance_id": "n350"
+  },
+  {
+    "label": "match",
+    "score_id": "n453-1",
+    "performance_id": "n352"
+  },
+  {
+    "label": "match",
+    "score_id": "n454-1",
+    "performance_id": "n353"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n456-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n455-1",
+    "performance_id": "n354"
+  },
+  {
+    "label": "match",
+    "score_id": "n446-1",
+    "performance_id": "n355"
+  },
+  {
+    "label": "match",
+    "score_id": "n447-1",
+    "performance_id": "n356"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n448-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n449-1",
+    "performance_id": "n359"
+  },
+  {
+    "label": "match",
+    "score_id": "n467-1",
+    "performance_id": "n358"
+  },
+  {
+    "label": "match",
+    "score_id": "n468-1",
+    "performance_id": "n362"
+  },
+  {
+    "label": "match",
+    "score_id": "n487-1",
+    "performance_id": "n360"
+  },
+  {
+    "label": "match",
+    "score_id": "n493-1",
+    "performance_id": "n361"
+  },
+  {
+    "label": "match",
+    "score_id": "n469-1",
+    "performance_id": "n363"
+  },
+  {
+    "label": "match",
+    "score_id": "n470-1",
+    "performance_id": "n364"
+  },
+  {
+    "label": "match",
+    "score_id": "n488-1",
+    "performance_id": "n365"
+  },
+  {
+    "label": "match",
+    "score_id": "n471-1",
+    "performance_id": "n366"
+  },
+  {
+    "label": "match",
+    "score_id": "n472-1",
+    "performance_id": "n367"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n478-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n489-1",
+    "performance_id": "n368"
+  },
+  {
+    "label": "match",
+    "score_id": "n479-1",
+    "performance_id": "n369"
+  },
+  {
+    "label": "match",
+    "score_id": "n480-1",
+    "performance_id": "n370"
+  },
+  {
+    "label": "match",
+    "score_id": "n490-1",
+    "performance_id": "n371"
+  },
+  {
+    "label": "match",
+    "score_id": "n473-1",
+    "performance_id": "n372"
+  },
+  {
+    "label": "match",
+    "score_id": "n474-1",
+    "performance_id": "n374"
+  },
+  {
+    "label": "match",
+    "score_id": "n491-1",
+    "performance_id": "n373"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n494-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n482-1",
+    "performance_id": "n376"
+  },
+  {
+    "label": "match",
+    "score_id": "n495-1",
+    "performance_id": "n375"
+  },
+  {
+    "label": "match",
+    "score_id": "n483-1",
+    "performance_id": "n378"
+  },
+  {
+    "label": "match",
+    "score_id": "n496-1",
+    "performance_id": "n377"
+  },
+  {
+    "label": "match",
+    "score_id": "n484-1",
+    "performance_id": "n380"
+  },
+  {
+    "label": "match",
+    "score_id": "n497-1",
+    "performance_id": "n379"
+  },
+  {
+    "label": "match",
+    "score_id": "n485-1",
+    "performance_id": "n381"
+  },
+  {
+    "label": "match",
+    "score_id": "n492-1",
+    "performance_id": "n382"
+  },
+  {
+    "label": "match",
+    "score_id": "n476-1",
+    "performance_id": "n384"
+  },
+  {
+    "label": "match",
+    "score_id": "n499-1",
+    "performance_id": "n383"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n486-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n500-1",
+    "performance_id": "n385"
+  },
+  {
+    "label": "match",
+    "score_id": "n477-1",
+    "performance_id": "n387"
+  },
+  {
+    "label": "match",
+    "score_id": "n501-1",
+    "performance_id": "n388"
+  },
+  {
+    "label": "match",
+    "score_id": "n515-1",
+    "performance_id": "n390"
+  },
+  {
+    "label": "match",
+    "score_id": "n528-1",
+    "performance_id": "n389"
+  },
+  {
+    "label": "match",
+    "score_id": "n503-1",
+    "performance_id": "n391"
+  },
+  {
+    "label": "match",
+    "score_id": "n523-1",
+    "performance_id": "n392"
+  },
+  {
+    "label": "match",
+    "score_id": "n504-1",
+    "performance_id": "n394"
+  },
+  {
+    "label": "match",
+    "score_id": "n524-1",
+    "performance_id": "n393"
+  },
+  {
+    "label": "match",
+    "score_id": "n516-1",
+    "performance_id": "n396"
+  },
+  {
+    "label": "match",
+    "score_id": "n525-1",
+    "performance_id": "n395"
+  },
+  {
+    "label": "match",
+    "score_id": "n505-1",
+    "performance_id": "n398"
+  },
+  {
+    "label": "match",
+    "score_id": "n526-1",
+    "performance_id": "n397"
+  },
+  {
+    "label": "match",
+    "score_id": "n518-1",
+    "performance_id": "n399"
+  },
+  {
+    "label": "match",
+    "score_id": "n519-1",
+    "performance_id": "n401"
+  },
+  {
+    "label": "match",
+    "score_id": "n529-1",
+    "performance_id": "n400"
+  },
+  {
+    "label": "match",
+    "score_id": "n506-1",
+    "performance_id": "n402"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n507-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n520-1",
+    "performance_id": "n404"
+  },
+  {
+    "label": "match",
+    "score_id": "n530-1",
+    "performance_id": "n403"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n508-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n509-1",
+    "performance_id": "n406"
+  },
+  {
+    "label": "match",
+    "score_id": "n510-1",
+    "performance_id": "n407"
+  },
+  {
+    "label": "match",
+    "score_id": "n521-1",
+    "performance_id": "n408"
+  },
+  {
+    "label": "match",
+    "score_id": "n527-1",
+    "performance_id": "n409"
+  },
+  {
+    "label": "match",
+    "score_id": "n512-1",
+    "performance_id": "n410"
+  },
+  {
+    "label": "match",
+    "score_id": "n513-1",
+    "performance_id": "n411"
+  },
+  {
+    "label": "match",
+    "score_id": "n514-1",
+    "performance_id": "n412"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n531-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n541-1",
+    "performance_id": "n414"
+  },
+  {
+    "label": "match",
+    "score_id": "n551-1",
+    "performance_id": "n415"
+  },
+  {
+    "label": "match",
+    "score_id": "n555-1",
+    "performance_id": "n413"
+  },
+  {
+    "label": "match",
+    "score_id": "n532-1",
+    "performance_id": "n416"
+  },
+  {
+    "label": "match",
+    "score_id": "n533-1",
+    "performance_id": "n417"
+  },
+  {
+    "label": "match",
+    "score_id": "n534-1",
+    "performance_id": "n418"
+  },
+  {
+    "label": "match",
+    "score_id": "n535-1",
+    "performance_id": "n420"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n542-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n552-1",
+    "performance_id": "n419"
+  },
+  {
+    "label": "match",
+    "score_id": "n543-1",
+    "performance_id": "n421"
+  },
+  {
+    "label": "match",
+    "score_id": "n544-1",
+    "performance_id": "n422"
+  },
+  {
+    "label": "match",
+    "score_id": "n545-1",
+    "performance_id": "n423"
+  },
+  {
+    "label": "match",
+    "score_id": "n536-1",
+    "performance_id": "n425"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n546-1",
+    "performance_id": null
+  },
+  {
+    "label": "deletion",
+    "score_id": "n553-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n547-1",
+    "performance_id": "n426"
+  },
+  {
+    "label": "match",
+    "score_id": "n548-1",
+    "performance_id": "n427"
+  },
+  {
+    "label": "match",
+    "score_id": "n549-1",
+    "performance_id": "n428"
+  },
+  {
+    "label": "match",
+    "score_id": "n550-1",
+    "performance_id": "n429"
+  },
+  {
+    "label": "match",
+    "score_id": "n554-1",
+    "performance_id": "n430"
+  },
+  {
+    "label": "match",
+    "score_id": "n538-1",
+    "performance_id": "n431"
+  },
+  {
+    "label": "match",
+    "score_id": "n539-1",
+    "performance_id": "n432"
+  },
+  {
+    "label": "match",
+    "score_id": "n540-1",
+    "performance_id": "n433"
+  },
+  {
+    "label": "match",
+    "score_id": "n556-1",
+    "performance_id": "n435"
+  },
+  {
+    "label": "match",
+    "score_id": "n562-1",
+    "performance_id": "n436"
+  },
+  {
+    "label": "match",
+    "score_id": "n574-1",
+    "performance_id": "n434"
+  },
+  {
+    "label": "match",
+    "score_id": "n563-1",
+    "performance_id": "n437"
+  },
+  {
+    "label": "match",
+    "score_id": "n564-1",
+    "performance_id": "n438"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n565-1"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n566-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n575-1",
+    "performance_id": "n440"
+  },
+  {
+    "label": "match",
+    "score_id": "n558-1",
+    "performance_id": "n442"
+  },
+  {
+    "label": "match",
+    "score_id": "n559-1",
+    "performance_id": "n443"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n560-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n561-1",
+    "performance_id": "n446"
+  },
+  {
+    "label": "match",
+    "score_id": "n576-1",
+    "performance_id": "n445"
+  },
+  {
+    "label": "match",
+    "score_id": "n567-1",
+    "performance_id": "n447"
+  },
+  {
+    "label": "match",
+    "score_id": "n568-1",
+    "performance_id": "n448"
+  },
+  {
+    "label": "match",
+    "score_id": "n569-1",
+    "performance_id": "n449"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n570-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n577-1",
+    "performance_id": "n450"
+  },
+  {
+    "label": "match",
+    "score_id": "n571-1",
+    "performance_id": "n452"
+  },
+  {
+    "label": "match",
+    "score_id": "n572-1",
+    "performance_id": "n453"
+  },
+  {
+    "label": "match",
+    "score_id": "n573-1",
+    "performance_id": "n454"
+  },
+  {
+    "label": "match",
+    "score_id": "n595-1",
+    "performance_id": "n455"
+  },
+  {
+    "label": "match",
+    "score_id": "n596-1",
+    "performance_id": "n456"
+  },
+  {
+    "label": "match",
+    "score_id": "n580-1",
+    "performance_id": "n457"
+  },
+  {
+    "label": "match",
+    "score_id": "n581-1",
+    "performance_id": "n458"
+  },
+  {
+    "label": "match",
+    "score_id": "n582-1",
+    "performance_id": "n459"
+  },
+  {
+    "label": "match",
+    "score_id": "n583-1",
+    "performance_id": "n460"
+  },
+  {
+    "label": "match",
+    "score_id": "n597-1",
+    "performance_id": "n461"
+  },
+  {
+    "label": "match",
+    "score_id": "n598-1",
+    "performance_id": "n462"
+  },
+  {
+    "label": "match",
+    "score_id": "n584-1",
+    "performance_id": "n463"
+  },
+  {
+    "label": "match",
+    "score_id": "n585-1",
+    "performance_id": "n464"
+  },
+  {
+    "label": "match",
+    "score_id": "n586-1",
+    "performance_id": "n465"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n587-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n599-1",
+    "performance_id": "n466"
+  },
+  {
+    "label": "match",
+    "score_id": "n600-1",
+    "performance_id": "n467"
+  },
+  {
+    "label": "match",
+    "score_id": "n588-1",
+    "performance_id": "n469"
+  },
+  {
+    "label": "match",
+    "score_id": "n589-1",
+    "performance_id": "n470"
+  },
+  {
+    "label": "match",
+    "score_id": "n590-1",
+    "performance_id": "n471"
+  },
+  {
+    "label": "match",
+    "score_id": "n591-1",
+    "performance_id": "n473"
+  },
+  {
+    "label": "match",
+    "score_id": "n601-1",
+    "performance_id": "n472"
+  },
+  {
+    "label": "match",
+    "score_id": "n602-1",
+    "performance_id": "n474"
+  },
+  {
+    "label": "match",
+    "score_id": "n592-1",
+    "performance_id": "n475"
+  },
+  {
+    "label": "match",
+    "score_id": "n593-1",
+    "performance_id": "n476"
+  },
+  {
+    "label": "match",
+    "score_id": "n594-1",
+    "performance_id": "n477"
+  },
+  {
+    "label": "match",
+    "score_id": "n604-1",
+    "performance_id": "n480"
+  },
+  {
+    "label": "match",
+    "score_id": "n620-1",
+    "performance_id": "n478"
+  },
+  {
+    "label": "match",
+    "score_id": "n621-1",
+    "performance_id": "n479"
+  },
+  {
+    "label": "match",
+    "score_id": "n605-1",
+    "performance_id": "n481"
+  },
+  {
+    "label": "match",
+    "score_id": "n606-1",
+    "performance_id": "n482"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n607-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n608-1",
+    "performance_id": "n484"
+  },
+  {
+    "label": "match",
+    "score_id": "n622-1",
+    "performance_id": "n485"
+  },
+  {
+    "label": "match",
+    "score_id": "n623-1",
+    "performance_id": "n486"
+  },
+  {
+    "label": "match",
+    "score_id": "n609-1",
+    "performance_id": "n487"
+  },
+  {
+    "label": "match",
+    "score_id": "n610-1",
+    "performance_id": "n488"
+  },
+  {
+    "label": "match",
+    "score_id": "n611-1",
+    "performance_id": "n489"
+  },
+  {
+    "label": "match",
+    "score_id": "n612-1",
+    "performance_id": "n491"
+  },
+  {
+    "label": "match",
+    "score_id": "n624-1",
+    "performance_id": "n492"
+  },
+  {
+    "label": "match",
+    "score_id": "n627-1",
+    "performance_id": "n490"
+  },
+  {
+    "label": "match",
+    "score_id": "n613-1",
+    "performance_id": "n493"
+  },
+  {
+    "label": "match",
+    "score_id": "n614-1",
+    "performance_id": "n494"
+  },
+  {
+    "label": "match",
+    "score_id": "n615-1",
+    "performance_id": "n495"
+  },
+  {
+    "label": "match",
+    "score_id": "n616-1",
+    "performance_id": "n496"
+  },
+  {
+    "label": "match",
+    "score_id": "n625-1",
+    "performance_id": "n497"
+  },
+  {
+    "label": "match",
+    "score_id": "n617-1",
+    "performance_id": "n498"
+  },
+  {
+    "label": "match",
+    "score_id": "n618-1",
+    "performance_id": "n499"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n619-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n628-1",
+    "performance_id": "n501"
+  },
+  {
+    "label": "match",
+    "score_id": "n641-1",
+    "performance_id": "n502"
+  },
+  {
+    "label": "match",
+    "score_id": "n633-1",
+    "performance_id": "n503"
+  },
+  {
+    "label": "match",
+    "score_id": "n634-1",
+    "performance_id": "n504"
+  },
+  {
+    "label": "match",
+    "score_id": "n635-1",
+    "performance_id": "n505"
+  },
+  {
+    "label": "match",
+    "score_id": "n629-1",
+    "performance_id": "n506"
+  },
+  {
+    "label": "match",
+    "score_id": "n642-1",
+    "performance_id": "n507"
+  },
+  {
+    "label": "match",
+    "score_id": "n647-1",
+    "performance_id": "n508"
+  },
+  {
+    "label": "match",
+    "score_id": "n648-1",
+    "performance_id": "n509"
+  },
+  {
+    "label": "match",
+    "score_id": "n649-1",
+    "performance_id": "n510"
+  },
+  {
+    "label": "match",
+    "score_id": "n643-1",
+    "performance_id": "n512"
+  },
+  {
+    "label": "match",
+    "score_id": "n650-1",
+    "performance_id": "n511"
+  },
+  {
+    "label": "match",
+    "score_id": "n636-1",
+    "performance_id": "n513"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n637-1"
+  },
+  {
+    "label": "match",
+    "score_id": "n644-1",
+    "performance_id": "n515"
+  },
+  {
+    "label": "match",
+    "score_id": "n638-1",
+    "performance_id": "n516"
+  },
+  {
+    "label": "match",
+    "score_id": "n645-1",
+    "performance_id": "n517"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n630-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n639-1",
+    "performance_id": "n518"
+  },
+  {
+    "label": "match",
+    "score_id": "n631-1",
+    "performance_id": "n519"
+  },
+  {
+    "label": "deletion",
+    "score_id": "n640-1",
+    "performance_id": null
+  },
+  {
+    "label": "match",
+    "score_id": "n632-1",
+    "performance_id": "n520"
+  },
+  {
+    "label": "match",
+    "score_id": "n651-1",
+    "performance_id": "n523"
+  },
+  {
+    "label": "match",
+    "score_id": "n652-1",
+    "performance_id": "n524"
+  },
+  {
+    "label": "match",
+    "score_id": "n653-1",
+    "performance_id": "n525"
+  },
+  {
+    "label": "match",
+    "score_id": "n654-1",
+    "performance_id": "n521"
+  },
+  {
+    "label": "match",
+    "score_id": "n655-1",
+    "performance_id": "n522"
+  }
+]
