@@ -199,16 +199,9 @@ python -m scripts.run_alignment \
 The three baselines reported in the paper are run with their default
 configurations:
 
-* **DualDTW** is invoked through `parangonar.DualDTWNoteMatcher`. The same
-  matcher is also called internally by `run_alignment.py` as the
-  structural fallback.
-* **Nakamura's HMM aligner** is the publicly released
-  [AlignmentTool](https://midialignment.github.io/), compiled locally.
-* **GlueNote** uses the public checkpoints from the
-  [TheGlueNote repository](https://github.com/sildater/thegluenote).
-
-Wrapper scripts that call each baseline on the same test splits are
-provided under `scripts/baselines/`.
+* **DualDTW**
+* **Nakamura's HMM aligner**
+* **GlueNote**
 
 ---
 
@@ -216,7 +209,7 @@ provided under `scripts/baselines/`.
 
 Each command trains one ensemble member. The 4-seed ensembles reported in
 the paper are obtained by running the same command four times with
-`--weight_seed {0,1,2,3}` and writing to four distinct `--model_name`
+`--weight_seed {1001,2002,3003,4004}` and writing to four distinct `--model_name`
 files. The dataset split is held fixed across seeds via `--split_seed`.
 
 ```bash
@@ -225,7 +218,7 @@ python -m scripts.train_contrastive \
     --input_dir ./asap-dataset \
     --dataset asap \
     --model_name ./models/ensemble/asap_3L_37w/seed0.pt \
-    --split_seed 1337 --weight_seed 0 \
+    --split_seed 1337 --weight_seed 1001 \
     --epochs 200 --batch_size 64 \
     --aug_stretch --aug_pitch
 
@@ -235,7 +228,7 @@ python -m scripts.train_contrastive \
     --input_dir ./batik_plays_mozart \
     --dataset batik \
     --model_name ./models/ensemble/batik_3L_37w/seed0.pt \
-    --split_seed 1337 --weight_seed 0 \
+    --split_seed 1337 --weight_seed 1001 \
     --epochs 15 --batch_size 16 \
     --aug_stretch --aug_pitch
 
@@ -244,12 +237,12 @@ python -m scripts.train_contrastive \
     --input_dir ./vienna4x22 \
     --dataset vienna \
     --model_name ./models/ensemble/vienna_3L_37w/seed0.pt \
-    --split_seed 1337 --weight_seed 0 \
+    --split_seed 1337 --weight_seed 1001 \
     --epochs 200 --batch_size 16 \
     --aug_stretch --aug_pitch
 ```
 
-For the cross-corpus configurations of Section 5.5, replace `--dataset`
+For the cross-corpus configurations, replace `--dataset`
 with `asap_batik` or `asap_vienna` and provide both dataset paths via
 `--asap_dir`, `--batik_dir`, or `--vienna_dir`. The `--input_dir` flag is
 ignored for joint configurations but still required by the parser; any
@@ -287,8 +280,8 @@ fresh optimizer state).
 │   └── dtw_core.py           # FastDTW alignment, fusion, gap interpolation
 ├── scripts/
 │   ├── train_contrastive.py  # Contrastive training entry point
-│   ├── run_alignment.py      # Inference and evaluation entry point
-│   └── baselines/            # Wrappers for Nakamura, DualDTW, GlueNote
+│   └── run_alignment.py      # Inference and evaluation entry point
+│   
 ├── models/
 │   └── ensemble/             # Pretrained 4-seed ensembles
 │       ├── asap_3L_37w/
