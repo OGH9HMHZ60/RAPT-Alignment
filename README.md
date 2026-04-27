@@ -85,11 +85,14 @@ The loader bridges the dataset's split layout (`musicxml/`, `midi/`,
 
 The corrupted MIDI variants and their ground-truth alignments used in the
 corrupted-test evaluation are included directly in this repository under
-`corrupted/<dataset>/`. They were generated from the test split with the
+`data_synmist/<dataset>/`. They were generated from the test split with the
 [piano_synmist](https://github.com/Alia-morsi/piano-synmist) library using
 the four error types described in Section 4.1.2 of the paper (`drag`,
-`mistouch`, `pitch_change`, `forward_backward_insertion`). See
-`corrupted/README.md` for the file naming convention.
+`mistouch`, `pitch_change`, `forward_backward_insertion`). Where available,
+each `.mid` file is accompanied by a `.npz` sidecar that caches the
+generation-time note array; `run_alignment.py` uses the sidecar when
+present and falls back to reparsing the MIDI otherwise. See
+`data_synmist/README.md` for the file naming convention.
 
 ---
 
@@ -151,7 +154,7 @@ Per-piece F1 scores are written to
 ### Corrupted test set
 
 Pass the directory of corrupted MIDI variants to `--corrupt_midi_dir`. The
-shipped files at `corrupted/<dataset>/` follow the naming convention
+shipped files at `data_synmist/<dataset>/` follow the naming convention
 `<piece_id>_<corruption_type>.mid` expected by the script, with a sibling
 `.json` providing the ground-truth alignment.
 
@@ -160,7 +163,7 @@ python -m scripts.run_alignment \
     --models ./checkpoints/vienna/*.pt \
     --data_path ./vienna4x22 \
     --dataset vienna \
-    --corrupt_midi_dir ./corrupted/vienna \
+    --corrupt_midi_dir ./data_synmist/vienna \
     --alpha 0.1369 --beta 0.7704 --iou_keep 0.8919
 ```
 
@@ -287,7 +290,7 @@ fresh optimizer state).
 │   ├── run_alignment.py      # Inference and evaluation entry point
 │   └── baselines/            # Wrappers for Nakamura, DualDTW, GlueNote
 ├── checkpoints/              # Pretrained ensembles, one folder per dataset
-├── corrupted/                # Corrupted test variants and ground-truth alignments
+├── data_synmist/             # Corrupted test variants and ground-truth alignments
 │   ├── README.md
 │   ├── vienna/
 │   ├── batik/
