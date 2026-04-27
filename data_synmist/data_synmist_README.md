@@ -9,7 +9,7 @@ reproduced directly, without rerunning the generation step.
 
 ```
 data_synmist/
-├── vienna/
+├── typed_test_vienna/
 │   ├── <piece_id>_drag.mid
 │   ├── <piece_id>_drag.json
 │   ├── <piece_id>_mistouch.mid
@@ -18,8 +18,8 @@ data_synmist/
 │   ├── <piece_id>_pitch_change.json
 │   ├── <piece_id>_forward_backward_insertion.mid
 │   └── <piece_id>_forward_backward_insertion.json
-├── batik/
-└── asap/
+├── typed_test_batik/
+└── typed_test_asap/
 ```
 
 For every test piece in `test_ids_<dataset>.txt`, four corrupted variants
@@ -52,10 +52,10 @@ To evaluate on the corrupted variants:
 
 ```bash
 python -m scripts.run_alignment \
-    --models ./checkpoints/<dataset>/*.pt \
+    --models ./models/ensemble/<dataset>_3L_37w/*.pt \
     --data_path <path to clean dataset> \
     --dataset <vienna|batik|asap> \
-    --corrupt_midi_dir data_synmist/<dataset>
+    --corrupt_midi_dir data_synmist/typed_test_<dataset>
 ```
 
 `run_alignment.py` automatically picks up the `.json` ground-truth files

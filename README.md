@@ -85,7 +85,7 @@ The loader bridges the dataset's split layout (`musicxml/`, `midi/`,
 
 The corrupted MIDI variants and their ground-truth alignments used in the
 corrupted-test evaluation are included directly in this repository under
-`data_synmist/<dataset>/`. They were generated from the test split with the
+`data_synmist/typed_test_<dataset>/`. They were generated from the test split with the
 [piano_synmist](https://github.com/Alia-morsi/piano-synmist) library using
 the four error types described in Section 4.1.2 of the paper (`drag`,
 `mistouch`, `pitch_change`, `forward_backward_insertion`). Where available,
@@ -116,7 +116,7 @@ test set.
 
 ## Reproducing the paper results
 
-Pretrained 4-seed ensembles are expected in `checkpoints/<dataset>/`.
+Pretrained 4-seed ensembles are expected in `models/ensemble/<dataset>_3L_37w/`.
 Inference reads all `.pt` files in that directory and averages their
 embeddings. The per-dataset inference hyperparameters (`alpha`, `beta`,
 `iou_keep`) below are the values selected on the validation split with
@@ -128,21 +128,21 @@ paper.
 ```bash
 # Vienna 4x22
 python -m scripts.run_alignment \
-    --models ./checkpoints/vienna/*.pt \
+    --models ./models/ensemble/vienna_3L_37w/*.pt \
     --data_path ./vienna4x22 \
     --dataset vienna \
     --alpha 0.1369 --beta 0.7704 --iou_keep 0.8919
 
 # Batik plays Mozart
 python -m scripts.run_alignment \
-    --models ./checkpoints/batik/*.pt \
+    --models ./models/ensemble/batik_3L_37w/*.pt \
     --data_path ./batik_plays_mozart \
     --dataset batik \
     --alpha 0.2314 --beta 0.4987 --iou_keep 0.8315
 
 # (n)ASAP
 python -m scripts.run_alignment \
-    --models ./checkpoints/asap/*.pt \
+    --models ./models/ensemble/asap_3L_37w/*.pt \
     --data_path ./asap-dataset \
     --dataset asap \
     --alpha 0.8344 --beta 0.9442 --iou_keep 0.8996
@@ -154,16 +154,16 @@ Per-piece F1 scores are written to
 ### Corrupted test set
 
 Pass the directory of corrupted MIDI variants to `--corrupt_midi_dir`. The
-shipped files at `data_synmist/<dataset>/` follow the naming convention
+shipped files at `data_synmist/typed_test_<dataset>/` follow the naming convention
 `<piece_id>_<corruption_type>.mid` expected by the script, with a sibling
 `.json` providing the ground-truth alignment.
 
 ```bash
 python -m scripts.run_alignment \
-    --models ./checkpoints/vienna/*.pt \
+    --models ./models/ensemble/vienna_3L_37w/*.pt \
     --data_path ./vienna4x22 \
     --dataset vienna \
-    --corrupt_midi_dir ./data_synmist/vienna \
+    --corrupt_midi_dir ./data_synmist/typed_test_vienna \
     --alpha 0.1369 --beta 0.7704 --iou_keep 0.8919
 ```
 
@@ -181,14 +181,14 @@ hyperparameters selected on the joint validation split:
 ```bash
 # ASAP+Vienna ensemble evaluated on Batik
 python -m scripts.run_alignment \
-    --models ./checkpoints/asap_vienna/*.pt \
+    --models ./models/ensemble/asap_vienna_3L_37w/*.pt \
     --data_path ./batik_plays_mozart \
     --dataset batik \
     --alpha 0.0756 --beta 0.6951 --iou_keep 0.8515
 
 # ASAP+Batik ensemble evaluated on Vienna
 python -m scripts.run_alignment \
-    --models ./checkpoints/asap_batik/*.pt \
+    --models ./models/ensemble/asap_batik_3L_37w/*.pt \
     --data_path ./vienna4x22 \
     --dataset vienna \
     --alpha 0.3319 --beta 0.8037 --iou_keep 0.8679
@@ -224,7 +224,7 @@ files. The dataset split is held fixed across seeds via `--split_seed`.
 python -m scripts.train_contrastive \
     --input_dir ./asap-dataset \
     --dataset asap \
-    --model_name ./checkpoints/asap/seed0.pt \
+    --model_name ./models/ensemble/asap_3L_37w/seed0.pt \
     --split_seed 1337 --weight_seed 0 \
     --epochs 200 --batch_size 64 \
     --aug_stretch --aug_pitch
@@ -234,7 +234,7 @@ python -m scripts.train_contrastive \
 python -m scripts.train_contrastive \
     --input_dir ./batik_plays_mozart \
     --dataset batik \
-    --model_name ./checkpoints/batik/seed0.pt \
+    --model_name ./models/ensemble/batik_3L_37w/seed0.pt \
     --split_seed 1337 --weight_seed 0 \
     --epochs 15 --batch_size 16 \
     --aug_stretch --aug_pitch
@@ -243,7 +243,7 @@ python -m scripts.train_contrastive \
 python -m scripts.train_contrastive \
     --input_dir ./vienna4x22 \
     --dataset vienna \
-    --model_name ./checkpoints/vienna/seed0.pt \
+    --model_name ./models/ensemble/vienna_3L_37w/seed0.pt \
     --split_seed 1337 --weight_seed 0 \
     --epochs 200 --batch_size 16 \
     --aug_stretch --aug_pitch
@@ -289,12 +289,18 @@ fresh optimizer state).
 │   ├── train_contrastive.py  # Contrastive training entry point
 │   ├── run_alignment.py      # Inference and evaluation entry point
 │   └── baselines/            # Wrappers for Nakamura, DualDTW, GlueNote
-├── checkpoints/              # Pretrained ensembles, one folder per dataset
+├── models/
+│   └── ensemble/             # Pretrained 4-seed ensembles
+│       ├── asap_3L_37w/
+│       ├── batik_3L_37w/
+│       ├── vienna_3L_37w/
+│       ├── asap_batik_3L_37w/
+│       └── asap_vienna_3L_37w/
 ├── data_synmist/             # Corrupted test variants and ground-truth alignments
 │   ├── README.md
-│   ├── vienna/
-│   ├── batik/
-│   └── asap/
+│   ├── typed_test_vienna/
+│   ├── typed_test_batik/
+│   └── typed_test_asap/
 ├── test_ids_asap.txt
 ├── test_ids_batik.txt
 ├── test_ids_vienna.txt
