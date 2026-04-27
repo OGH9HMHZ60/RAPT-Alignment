@@ -1,0 +1,24 @@
+# Core dependencies for RAPT inference and training.
+#
+# The exact versions used to produce the paper's reported numbers are:
+#   torch 2.5.1, numpy 2.3.5, pandas 3.0.1, partitura 1.8.0,
+#   parangonar 3.2.0, fastdtw 0.3.4, optuna 4.8.0, piano_synmist 0.0.2.
+#
+# The pins below are slightly relaxed so the file installs cleanly from
+# public PyPI. If you want bit-identical reproducibility, replace each
+# range with the exact version listed above.
+
+torch>=2.3,<3.0
+numpy>=2.0,<3.0
+pandas>=2.2,<4.0
+partitura>=1.5,<2.0
+parangonar>=3.0,<4.0
+fastdtw==0.3.4
+
+# Hyperparameter tuning (Section 4.2 of the paper).
+optuna>=3.4,<5.0
+
+# Synthetic-corruption library used to generate the corrupted test
+# variants (Section 4.1.2 of the paper). If unavailable on PyPI, see the
+# README for installation instructions.
+piano_synmist==0.0.2
